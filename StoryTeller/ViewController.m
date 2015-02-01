@@ -67,7 +67,7 @@ typedef enum{
 	self.textToRead.inputAccessoryView = accessoryView;
 	
 	// set default text to read
-	self.textToRead.text = @"りょうちゃん　おかえり";
+	self.textToRead.text = @"テスト　テ　ス　ト";
 
 }
 
